@@ -1,15 +1,19 @@
 # NBA Regression Analysis
+
+
 ## About this project 
 This project uses Python and regression analysis to examine NBA team performance and explore factors associated with team wins.
 
 ## Skills Demonstrated
 
-- Python
-- Data analysis
-- Regression modeling
-- Statistical analysis
-- Data visualization
-
+Python
+Data analysis
+Data cleaning and preparation
+Regression analysis
+Statistical modeling
+Data visualization
+Interpreting statistical results
+Communicating data-driven findings
 
 ## Project Goal
 
@@ -20,7 +24,18 @@ The goal of this project was to use historical NBA data to build regression mode
 
 This project strengthened my Python, statistical analysis, and problem-solving skills. I also gained experience interpreting regression results and communicating data-driven findings clearly.
 
+## Project Results
+
+The regression analysis showed that team performance could be modeled using historical NBA data. The project compared regression models, evaluated relationships between multiple variables and team wins, and used statistical results to determine how well the models explained variation in team performance.
+## Project Files
+
+This repository includes the analysis materials, Jupyter project export, and written report for my NBA regression analysis project.
+
 ## Author
 
 Disiree Cathers
+
 Computer Science Student
+
+
+
